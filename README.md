@@ -13,4 +13,4 @@ O curso ensina o desenvolvimento de aplicativos nativos para Android e iOS utili
 
 
 
-📄 [Clique aqui para ver o certificado (PDF)](certificado-react-native.pdf)
+📄 [Clique aqui para ver o certificado (PDF)](Certificado_1_Udemy.pdf)
